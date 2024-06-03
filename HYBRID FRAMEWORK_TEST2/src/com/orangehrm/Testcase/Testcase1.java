@@ -9,7 +9,7 @@ public class Testcase1 extends Basic
 	@Test
 	public void case1()
 	{
-	  System.out.println("hello");
+	  System.out.println("hello karuna");
 		
 	}
 }
